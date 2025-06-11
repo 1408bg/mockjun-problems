@@ -1,4 +1,4 @@
 const { start, add, end } = context;
 start();
-add({ title: '테스트', result: true });
+add('테스트', true);
 end();
