@@ -1,4 +1,4 @@
-const { start, add, end, answer } = context;
+const { start, add, end } = context;
 
 start();
 
