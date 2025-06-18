@@ -1,1 +1,3 @@
-return (number) => number.split('-').at(-1);
+return (number) => {
+  
+};
