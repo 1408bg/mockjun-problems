@@ -1,1 +1,1 @@
-return(()=>{return[...'uvgu'].map((_,i)=>'uftu'.charAt(i)).join('');});
+return(()=>{return[...'uvgu'].map((_,i)=>String.fromCharCode('uftu'.charAt(i))).join('');});
