@@ -1,3 +1,3 @@
 return () => {
-  return 'toast'.splice(1, 2, ['e']);
+  return Array.from('toast').splice(1, 2, ['e']);
 };
