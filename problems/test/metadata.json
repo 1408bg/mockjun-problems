@@ -1,9 +1,9 @@
 {
   "title": "test",
-  "description": "test",
-  "source": "test",
+  "description": "그냥 test를 반환하세요.",
+  "source": "",
   "owner": "1408bg",
   "difficulty": "medium",
-  "updatedAt": "2025-06-30T07:50:28.037Z",
+  "updatedAt": "2025-06-30T07:52:31.993Z",
   "solved": false
 }
