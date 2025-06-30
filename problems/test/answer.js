@@ -1,1 +1,3 @@
-return function() {}
+return function() {
+  return 'test';
+}
