@@ -1,9 +1,9 @@
 {
   "title": "test",
   "description": "test",
-  "source": "",
+  "source": "test",
   "owner": "1408bg",
-  "difficulty": "easy",
-  "updatedAt": "2025-06-11T06:05:26.588Z",
+  "difficulty": "medium",
+  "updatedAt": "2025-06-30T07:50:28.037Z",
   "solved": false
 }
