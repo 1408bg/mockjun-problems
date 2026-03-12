@@ -22,7 +22,7 @@ start();
 for (let i = 0; i < args.length; i++) {
   // func(n, edges) 형태로 인자 전달
   const result = func(args[i].n, args[i].edges);
-  add(result === answers[i]);
+  add(JSON.stringify(args[i]), result === answers[i]);
 }
 
 end();
